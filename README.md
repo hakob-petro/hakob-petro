@@ -1,4 +1,4 @@
-<p  align="center"><img height="380" src = "coderman.gif"></p>
+<p  align="center"><img height="380" src = "GitHub-logo.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 Researcher with a demonstrated history of working in the computer software
