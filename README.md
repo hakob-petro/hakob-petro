@@ -1,7 +1,9 @@
-<p  align="center"><img height="380" src = "GitHub-logo.gif"></p>
+<p  align="center"><img height="380" src="coderman.gif" width="120"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-Researcher with a demonstrated history of working in the computer software
+HI!
+</br>
+My name is Hakob. I'm a researcher with a demonstrated history of working in the computer software
 industry. Strong research professional with a Bachelor's degree focused in
 Computer Science from Moscow Institute of Physics and
 Technology (State University) (MIPT). The winner of the final part of the
