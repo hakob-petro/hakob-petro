@@ -1,4 +1,4 @@
-<p  align="center"><img height="380" src="coderman.gif" width="120"></p>
+<p  align="center"><img height="180" src="coderman.gif"/></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 HI!
