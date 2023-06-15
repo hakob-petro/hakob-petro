@@ -15,5 +15,5 @@ astronomy.
 \> [LinkedIn](https://www.linkedin.com/in/jacpetro)</br>
 \> [Telegram](https://t.me/jacpetro) </br>
 \> [Gmail](jacpetrosyan@gmail.com) </br>
-\> [Porfolio](https://drive.google.com/drive/folders/1_z8CwzKdMVHqjeMxyCnwvYmMlYIKubnD?usp=share_link)
+\> [Portfolio](https://drive.google.com/drive/folders/1_z8CwzKdMVHqjeMxyCnwvYmMlYIKubnD?usp=share_link)
 
