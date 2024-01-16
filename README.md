@@ -1,6 +1,3 @@
-<p align="center">
-<img alt="Night Coding" src="./assets/coding_rick.gif" width='480' class="center" align="center"/>
-</p>
 <h2>Hey there! I'm Hakob</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
