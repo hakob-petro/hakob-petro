@@ -1,19 +1,22 @@
-<p  align="center"><img height="180" src="coderman.gif"/></p>
+<img alt="Night Coding" src="./assets/coding_rick.gif" width='480' align="center"/>
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-HI!
-</br>
-My name is Hakob. I'm a researcher with a demonstrated history of working in the computer software
-industry. Strong research professional with a Bachelor's degree focused in
-Computer Science from Moscow Institute of Physics and
-Technology (State University) (MIPT). The winner of the final part of the
-Republican Olympiad of Armenia in the disciplines of mathematics, physics,
-astronomy.
+<h2>Hey there! I'm Hakob</h2>
 
-<h2>Contacts <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-\> [LinkedIn](https://www.linkedin.com/in/jacpetro)</br>
-\> [Telegram](https://t.me/jacpetro) </br>
-\> [Gmail](jacpetrosyan@gmail.com) </br>
-\> [Portfolio](https://drive.google.com/drive/folders/1_z8CwzKdMVHqjeMxyCnwvYmMlYIKubnD?usp=share_link)
+### &nbsp; About Me
 
+💼 &nbsp;Accelerating and optimizating AI with distributed training in [ScaleGenAI](https://www.scalegen.ai/).\
+🎓 &nbsp;Currently studying at for a Master's degree Computer Science and Mathematics at [MIPT](https://mipt.ru/en/education).\
+🏅 &nbsp;Ex winner of the final part of the Republican Olympiad of Armenia in the disciplines of mathematics, physics, astronomy.\
+✉️ &nbsp;Feel free to shoot me an email at jacpetrosyan@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+### &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jacpetro/"><img alt="Static Badge" src="https://img.shields.io/badge/Hakob_Petrosyan-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjacpetro%2F"></a>
+<a href="jacpetrosyan@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/jacpetrosyam%40gmail.com-D14836?style=flat&logo=GMail&logoColor=white"></a>
+<a href="https://t.me/jacpetro"><img alt="Static Badge" src="https://img.shields.io/badge/jacpetrosyam%40gmail.com-2AABEE?style=flat&logo=Telegram&logoColor=white">
+</a>
+</p>
