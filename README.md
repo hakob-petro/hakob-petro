@@ -1,5 +1,6 @@
-<img alt="Night Coding" src="./assets/coding_rick.gif" width='480' align="center"/>
-
+<p align="center">
+<img alt="Night Coding" src="./assets/coding_rick.gif" width='480' class="center" align="center"/>
+</p>
 <h2>Hey there! I'm Hakob</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
@@ -10,7 +11,7 @@
 🎓 &nbsp;Currently studying at for a Master's degree Computer Science and Mathematics at [MIPT](https://mipt.ru/en/education).\
 🏅 &nbsp;Ex winner of the final part of the Republican Olympiad of Armenia in the disciplines of mathematics, physics, astronomy.\
 ✉️ &nbsp;Feel free to shoot me an email at jacpetrosyan@gmail.com! I'll try to respond as soon as I can.\
-💡 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Please have a look at my [Résumé](https://github.com/hakob-petro/hakob-petro/blob/master/HP_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### &nbsp;Connect with Me
 
