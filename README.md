@@ -10,7 +10,7 @@
 ✉️ &nbsp;Feel free to shoot me an email at jacpetrosyan@gmail.com! I'll try to respond as soon as I can.\
 💡 &nbsp;Please have a look at my [Résumé](https://github.com/hakob-petro/hakob-petro/blob/master/HP_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-### &nbsp;Connect with Me
+### &nbsp;Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jacpetro/"><img alt="Static Badge" src="https://img.shields.io/badge/Hakob_Petrosyan-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjacpetro%2F"></a>
