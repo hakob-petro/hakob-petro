@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### &nbsp; About me
+### &nbsp;About me
 
 💼 &nbsp;Accelerating and optimizating AI with distributed training at [ScaleGenAI](https://www.scalegen.ai/).\
 🎓 &nbsp;Currently studying for a Master's degree Computer Science and Mathematics at [MIPT](https://mipt.ru/en/education).\
