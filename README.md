@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jacpetro/"><img alt="Static Badge" src="https://img.shields.io/badge/Hakob_Petrosyan-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjacpetro%2F"></a>
-<a href="jacpetrosyan@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/jacpetrosyam%40gmail.com-D14836?style=flat&logo=GMail&logoColor=white"></a>
+<a href="jacpetrosyan@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/jacpetrosyan%40gmail.com-D14836?style=flat&logo=GMail&logoColor=white"></a>
 <a href="https://t.me/jacpetro"><img alt="Static Badge" src="https://img.shields.io/badge/jacpetro-2AABEE?style=flat&logo=Telegram&logoColor=white">
 </a>
 </p>
