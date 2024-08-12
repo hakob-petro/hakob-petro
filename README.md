@@ -5,7 +5,7 @@
 ### &nbsp;About me
 
 💼 &nbsp;Accelerating and optimizating AI with distributed training at [ScaleGenAI](https://www.scalegen.ai/).\
-🎓 &nbsp;Currently studying for a Master's degree Computer Science and Mathematics at [MIPT](https://mipt.ru/en/education).\
+🎓 &nbsp;Master's degree in Computer Science and Mathematics at [MIPT](https://mipt.ru/en/education).\
 🏅 &nbsp;Ex winner of the final part of the Republican Olympiad of Armenia in the disciplines of mathematics, physics, astronomy.\
 ✉️ &nbsp;Feel free to shoot me an email at jacpetrosyan@gmail.com! I'll try to respond as soon as I can.\
 💡 &nbsp;Please have a look at my [Résumé](https://github.com/hakob-petro/hakob-petro/blob/master/HP_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
