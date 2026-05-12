@@ -4,7 +4,7 @@
 
 ### &nbsp;About me
 
-💼 &nbsp;Accelerating and optimizating AI with distributed training at [ScaleGenAI](https://www.scalegen.ai/).\
+💼 &nbsp;Accelerating and optimizating AI with distributed training.\
 🎓 &nbsp;Master's degree in Computer Science and Mathematics at [MIPT](https://mipt.ru/en/education).\
 🏅 &nbsp;Ex winner of the final part of the Republican Olympiad of Armenia in the disciplines of mathematics, physics, astronomy.\
 ✉️ &nbsp;Feel free to shoot me an email at jacpetrosyan@gmail.com! I'll try to respond as soon as I can.\
